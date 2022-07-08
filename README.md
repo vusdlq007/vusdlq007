@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://thoughtful-chips-9fe.notion.site/Yoon-s-1869697c77b74d11afb86477b30788cb" target="_blank"><img src="https://img.shields.io/badge/#000000?style=plastic"/></a>
+Notion : https://thoughtful-chips-9fe.notion.site/Yoon-s-1869697c77b74d11afb86477b30788cb
 
 <!--
 **vusdlq007/vusdlq007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
